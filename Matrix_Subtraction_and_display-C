@@ -36,7 +36,7 @@ if (m==k && n==l)
         }
     }
     
-    printf("The Sum of the given matrixes results in the matrix : \n");
+    printf("The Difference of the given matrixes results in the matrix : \n");
     for(i=1;i<=m;i++)
     {
         for(j=1;j<=n;j++)
